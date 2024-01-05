@@ -1,7 +1,8 @@
 repo_name: steveny2k/spring-boot-api-project-seed
 report_id: 5f2a4c6ea336a081ac474f0e1193e965
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:33:21+00:00'
+timestamp: '2024-01-05T08:55:00+00:00'
 requested_by: lihengming
 provider: github
 branch: master
@@ -17,8 +18,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
-  detection_source_url: pom.xml
-  detection_source: pom.xml
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed/blob/master/pom.xml
+  detection_source: Repo Metadata
   last_updated_by: lihengming
   last_updated_on: 2017-06-23 10:01:50.000000000 Z
 - name: SQL
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed/blob/master/src/test/resources/demo-user.sql
   detection_source: src/test/resources/demo-user.sql
   last_updated_by: lihengming
   last_updated_on: 2017-06-23 10:02:25.000000000 Z
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed
   detection_source: Repo Metadata
 - name: Spring Framework
   description: An application framework and inversion of control container for the
@@ -52,6 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: lihengming
   last_updated_on: 2017-07-06 07:34:01.000000000 Z
@@ -65,7 +69,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
-  detection_source_url: pom.xml
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: lihengming
   last_updated_on: 2017-06-23 10:01:50.000000000 Z
@@ -78,6 +82,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/5582/1483254.png
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: lihengming
   last_updated_on: 2017-06-23 10:01:50.000000000 Z
@@ -89,6 +94,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: lihengming
   last_updated_on: 2017-06-23 10:01:50.000000000 Z
@@ -100,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed
   detection_source: Repo Metadata
 - name: Apache Camel
   description: A versatile open source integration framework
@@ -110,6 +117,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/steveny2k/spring-boot-api-project-seed/blob/master/src/main/resources/application.properties
   detection_source: src/main/resources/application.properties
   last_updated_by: lihengming
   last_updated_on: 2017-06-23 10:04:47.000000000 Z
